@@ -1,22 +1,22 @@
-# 🛒 Gerenciador de Compras Simples
+# 🛒 Simple Shopping Manager
 
-Este é um projeto web simples que permite ao usuário adicionar itens a uma lista de compras através de um formulário. O sistema calcula o total da compra e exibe os detalhes dos itens em uma tabela dinâmica.
+This is a simple web project that allows users to add items to a shopping list through a form. The system calculates the total purchase and displays the details of the items in a dynamic table.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-* **Adição de Itens:** Formulário intuitivo para input de nome do item, quantidade e preço unitário.
-* **Visualização em Tabela:** Os itens adicionados são automaticamente listados em uma tabela.
-* **Cálculo Automático:** Exibição do total geral da compra em tempo real.
+* **Item Addition:** Intuitive form for inputting the item name, quantity, and unit price.
+* **Table Visualization:** Added items are automatically listed in a table.
+* **Automatic Calculation:** Displays the grand total of the purchase in real-time.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 
-Este projeto foi construído com as seguintes tecnologias:
+This project was built with the following technologies:
 
-| Categoria | Tecnologia | Objetivo |
+| Category | Technology | Objective |
 | :--- | :--- | :--- |
-| **Estrutura** | HTML5 | Estrutura básica do formulário e da tabela. |
-| **Estilização** | CSS3 (Bootstrap) | Design e layout responsivo. |
-| **Lógica** | JavaScript | Manipulação do DOM, cálculo do total e gerenciamento de estado. |
+| **Structure** | HTML5 | Basic structure for the form and the table. |
+| **Styling** | CSS3 (Bootstrap) | Responsive design and layout. |
+| **Logic** | JavaScript | DOM manipulation, total calculation, and state management. |
 
-## Acesso em
+## Live Access
 [List App](https://eliezer-chaves.github.io/list-app/)
