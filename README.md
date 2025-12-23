@@ -19,4 +19,4 @@ This project was built with the following technologies:
 | **Logic** | JavaScript | DOM manipulation, total calculation, and state management. |
 
 ## Live Access
-[List App](https://eliezer-chaves.github.io/list-app/)
+[List App](https://eliezer-chaves.github.io/ListApp)
